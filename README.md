@@ -1,4 +1,4 @@
-# Clinical System - Vue.JS + Queasar
+# Clinical System - Vue.JS + Quasar
 
 Hi! This is the spanish version of the project.
 
